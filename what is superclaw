@@ -1,0 +1,9 @@
+SUPERCLAW intro:
+superclaw is basically moltbot/openclaw but its better.
+what makes it better.
+it has a set of built in tools like 
+Vault - stores information and loads it into agent context every time essentailly the same as claude mem
+workflow builder - agent can create workflows in a canvas and autoamte loops for example it can create scripts that work with your os sothat it can chech the time and launch the script on a sertain time for example the agent made a script to auto respons to emails for you.it can create scripts to do http requests to get internet acces.
+when you shoose for the agent to be a marketign agent is it designed to scavange the responses about content it created for your business it can scavange the comments of the post you made and then it saves a summary of how everything went in the vault for example. post 12331 got possitive responses becasue of this this and this and then it saves into the vault for the next loaded agent to understand everythign exactly the same.
+the agent isnt built from scratch as it would be to hard to do that. instead users will get an interface where they choose the ai model they want to use and then they also get a interface where they can customize their agents personality and workhours etc 
+previous agent create quiz for next agent sothat the next agent doesnt feel like youre talkign to another agent at all but talkign to the same person forever 
